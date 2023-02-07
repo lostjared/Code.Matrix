@@ -1,0 +1,24 @@
+Example: (2022-10-31 - 01:43:48) - Information:  Program running
+Example: (2022-10-31 - 01:43:48) - Information:  Info Logging
+Example: (2022-10-31 - 01:43:48) - Error:  logging an error
+Example: (2022-10-31 - 01:43:48) -  standard log
+Wrote directly so stream
+Wrote at: 2022-10-31 - 01:43:48
+Example: (2022-11-03 - 04:33:55) - Information:  Program running: time 2022-11-03 - 04:33:55
+Example: (2022-11-03 - 04:33:55) - Information:  Info Logging
+Example: (2022-11-03 - 04:33:55) - Error:  logging an error
+Example: (2022-11-03 - 04:33:55) -  standard log
+Wrote directly so stream
+Wrote at: 2022-11-03 - 04:33:55
+[31mExample[0m: (2022-12-25 - 13:52:52) - [34mInformation: [0m Program running: time 2022-12-25 - 13:52:52
+[31mExample[0m: (2022-12-25 - 13:52:52) - [34mInformation: [0m Info Logging
+[31mExample[0m: (2022-12-25 - 13:52:52) - [34mError: [0m logging an error
+[31mExample[0m: (2022-12-25 - 13:52:52) - [34m[0m standard log
+Wrote directly so stream
+Wrote at: 2022-12-25 - 13:52:52
+[31mExample[0m: ([32m2022-12-25 - 13:53:31[0m) - [34mInformation: [0m Program running: time 2022-12-25 - 13:53:31
+[31mExample[0m: ([32m2022-12-25 - 13:53:31[0m) - [34mInformation: [0m Info Logging
+[31mExample[0m: ([32m2022-12-25 - 13:53:31[0m) - [34mError: [0m logging an error
+[31mExample[0m: ([32m2022-12-25 - 13:53:31[0m) - [34m[0m standard log
+Wrote directly so stream
+Wrote at: 2022-12-25 - 13:53:31
